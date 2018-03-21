@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <customers>
-This is a test
+ <customer id="1">
+    <name>Carly Gonzales</name>
+    <phone>+1 (851) 452-2139</phone>
+    <about><![CDATA[Lorem proident sunt occaecat nulla dolor adipisicing Lorem amet proident nisi id. Aliqua id eiusmod anim irure aute eu aliquip velit laboris aute do fugiat labore. Tempor tempor et nostrud sint ad enim incididunt.
+]]></about>
+    <age>55</age>
+    <balance>1145.19</balance>
+    <active>true</active>
+    <joined>2005-03-05T00:00:00</joined>
+  </customer>
+  <customer id="2">
+    <name>Taylor Moon</name>
+    <phone>+1 (983) 574-2205</phone>
+    <about><![CDATA[Nisi cupidatat veniam consectetur anim duis fugiat consequat cupidatat dolor velit. Commodo voluptate voluptate cupidatat ex et esse. Minim anim veniam est magna. Officia adipisicing ut velit eiusmod anim ea ut consectetur ex qui commodo consequat sint laboris. Non velit incididunt ullamco laboris et eu esse aliquip non ad.
+]]></about>
+    <age>54</age>
+    <balance>2318.30</balance>
+    <active>true</active>
+    <joined>2000-05-25T00:00:00</joined>
+  </customer>
 </customers>

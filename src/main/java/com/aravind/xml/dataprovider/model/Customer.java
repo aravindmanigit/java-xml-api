@@ -93,6 +93,13 @@ public class Customer {
 	public void setJoined(String joined) {
 		this.joined = joined;
 	}
+
+
+	@Override
+	public String toString() {
+		return "Customer [id=" + id + ", name=" + name + ", phone=" + phone + ", about=" + about + ", age=" + age
+				+ ", balance=" + balance + ", active=" + active + ", joined=" + joined + "]";
+	}
 	
 	
 	
